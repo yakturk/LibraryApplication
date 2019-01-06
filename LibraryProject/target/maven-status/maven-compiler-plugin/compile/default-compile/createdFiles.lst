@@ -1,0 +1,9 @@
+com\library\library\controller\AppController.class
+com\library\library\configuration\JpaConfiguration.class
+com\library\library\model\Book.class
+com\library\library\repositories\BookRepository.class
+com\library\library\service\BookService.class
+com\library\library\service\BookServiceImpl.class
+com\library\library\LibraryApplication.class
+com\library\library\util\LibraryErrorType.class
+com\library\library\controller\RestApiController.class
