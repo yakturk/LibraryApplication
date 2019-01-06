@@ -1,6 +1,5 @@
 # LibraryApplication
-SprirngBoot_Angular_bootstrap
-
+Springboot_Angular_bootstrap
 
 A library application is created by spring boot, angular js + bootstrap
 Maven was used and java 8 was used. 
